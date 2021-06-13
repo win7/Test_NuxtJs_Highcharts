@@ -1,4 +1,4 @@
-# monitoring_covid
+# Test NuxtJS + Highcharts
 
 > My spectacular Nuxt.js project
 
